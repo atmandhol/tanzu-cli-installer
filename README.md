@@ -6,5 +6,8 @@ Scripts to install Tanzu CLI easily from Tanzu Network
 ### macOS
 
 ```bash
-curl -sSfL TBD | sh -s -- -b /usr/local/bin
+curl -sSfL https://raw.githubusercontent.com/atmandhol/tanzu-cli-installer/main/tap1.4/darwin/install.sh | sh -- -b /usr/local/bin
 ```
+
+### linux
+
